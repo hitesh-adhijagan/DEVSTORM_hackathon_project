@@ -1,5 +1,7 @@
 # DivvyUp
 
+Link: https://hitesh-adhijagan.github.io/DEVSTORM_hackathon_project/
+
 DivvyUp is a modern bill-splitting and expense-tracking web application designed to eliminate the complexity of shared expenses. It allows users to track group spending, simplify complex debt networks, and settle balances instantly via native UPI deep linking.
 
 ---
